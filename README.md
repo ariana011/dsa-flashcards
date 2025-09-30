@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://imgur.com/a/Lk2UNWK.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![gif](https://github.com/user-attachments/assets/97239e9a-f66e-41c2-9ae7-05b801615e11)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
