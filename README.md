@@ -44,7 +44,9 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/xcAhnlC" data-context="false" ><a href="//imgur.com/a/xcAhnlC"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
+https://github.com/user-attachments/assets/90895c37-b38f-4222-b9d8-8de95d739dcf
+
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
